@@ -5,6 +5,8 @@
 ## 📚 Visão Geral
 
 Este projeto faz parte de um case de engenharia de dados que foca na construção de uma **Arquitetura Lake House**. A arquitetura abrange todas as etapas, desde a ingestão até a transformação e exposição dos dados, garantindo escalabilidade e eficiência no processamento de grandes volumes de informações.
+## Desenho arquitetura LAKE HOUSE
+![LAKE HOUSE](lakehouse.png)
 
 ## 📂 Estrutura do Projeto
 
